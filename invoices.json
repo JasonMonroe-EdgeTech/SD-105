@@ -1,0 +1,48 @@
+{
+  "invoices": [
+    {
+      "id": "EQINV100215",
+      "total": 15000
+    },
+    {
+      "id": "REPINV100216",
+      "total": 489.36
+    },
+    {
+      "id": "CONTINV100217",
+      "total": 22345
+    },
+    {
+      "id": "EQINV100218",
+      "total": 14725
+    },
+    {
+      "id": "CONTV100219",
+      "total": 8842521
+    },
+    {
+      "id": "REPINV100220",
+      "total": 135.25
+    },
+    {
+      "id": "CONTINV100221",
+      "total": 47821546
+    },
+    {
+      "id": "EQINV100222",
+      "total": 15000
+    },
+    {
+      "id": "CREDITINV100223",
+      "total": 1400
+    },
+    {
+      "id": "CONTINV100224",
+      "total": 18456
+    }
+  ]
+}
+
+
+
+
